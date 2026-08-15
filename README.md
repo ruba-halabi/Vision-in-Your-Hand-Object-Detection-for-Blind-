@@ -62,3 +62,12 @@ Graduation Project: An AI-powered assistive system for the blind using YOLO
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Smart-HandGuide.git](https://github.com/YOUR_USERNAME/Smart-HandGuide.git)
    cd Smart-HandGuide
+Install required dependencies:
+pip3 install ultralytics opencv-python pyttsx3 numpy RPi.GPIO
+sudo apt-get install mpg321
+
+Download YOLOv8 Weights:
+Place your pre-trained model file (yolov8m.pt) in the project root or /home/pi/ directory.
+
+Run the application:
+python3 main.py
