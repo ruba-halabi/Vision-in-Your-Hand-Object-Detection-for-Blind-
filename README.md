@@ -71,3 +71,11 @@ Place your pre-trained model file (yolov8m.pt) in the project root or /home/pi/ 
 
 Run the application:
 python3 main.py
+
+### 📹 Video Demo
+
+### 📹 Project Media & Documentation
+
+| Asset Description | Access Link |
+| :--- | :--- |
+| **Full Project Video Demo** | 🔗 [Watch / Download via Google Drive](https://drive.google.com/file/d/1F0KsCjvgKmpYjDUwaiDBNdEEC9EVOc76/view?usp=drive_link) |
